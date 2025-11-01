@@ -4,7 +4,7 @@
 
 // KHAN-MD version 5.0 ❤️
 
-// Thanks For Chosing KHAN MD 🔥
+// Thanks For Chosig KHAN MD 🔥
 
 // Made with ♥️ By JawadTech 
 
