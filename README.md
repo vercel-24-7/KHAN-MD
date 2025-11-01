@@ -68,7 +68,7 @@
 <div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
 
   <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #00ffff;">
-    <p style="color: #ff00ff; font-size: 16px;">📦 Next, deploy using your preferred method (Heroku, Railway, etc.)</p>
+    <p style="color: #ff00ff; font-size: 16px;">📦 Next deploy using your preferred method (Heroku, Railway, etc.)</p>
     <ul style="color: #ffffff; line-height: 1.6;">
       <li>📁 Clone or fork the repository</li>
       <li>⚙️ Add your <code>.config</code> variables</li>
@@ -84,18 +84,24 @@
 
 > Securely link your device using the official KHAN-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
 
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; padding:20px;">
+ <div align="center">
 
-  <!-- Link 1 -->
-  <div style="background:#0f0f0f; border:2px solid #00FFFF; border-radius:10px; padding:15px 25px; box-shadow:0 0 12px #00ffff; min-width:250px; text-align:center;">
-    <p style="color:#ffffff; font-family:sans-serif; margin-bottom:8px;">
-      🔗 <strong>Pairing Server 01</strong>
-    </p>
-    <a href="https://khanmd-pair.onrender.com/" target="_blank">
-      <img src="https://img.shields.io/badge/PAIR_CODE_1-F0AF35?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d0d0d"/>
-    </a>
-  </div>
-  
+### 🔥 SHORT SESSION ID
+<p align="center">
+  <a href="https://khanmd-pair.onrender.com/">
+    <img src="https://img.shields.io/badge/🚀_PAIR_GENRATER_1-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1e1b4b" alt="Short Session"/>
+  </a>
+</p>
+
+### 🌊 LONG SESSION ID
+<p align="center">
+  <a href="https://khanxmd-pair.onrender.com/">
+    <img src="https://img.shields.io/badge/💫_PAIR_GENRATER_2-4F46E5?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1e1b4b" alt="Long Session"/>
+  </a>
+</p>
+
+</div>
+
 ---
 
 ## 📡 DEPLOYMENT SITES
@@ -156,7 +162,7 @@
   <tr>
     <td>
       <a href="https://github.com/JawadTechXD/KHANX-MD" target="_blank">
-        <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
+        <img alt="View Workflow Codes" src="https://img.shields.io/badge/Deploy-On%20Workflow-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
   </tr>
